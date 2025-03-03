@@ -1,6 +1,5 @@
-# Core-Data-
-This application appears to be a To-Do List App built using Core Data in Swift. Here's a breakdown of its functionality:
-![Image](https://github.com/user-attachments/assets/1993f917-d817-44dd-9862-587b9d9ecfff)
+
+
 # Core Data To-Do List App
 
 A simple to-do list application using Core Data in Swift.
@@ -31,9 +30,5 @@ A simple to-do list application using Core Data in Swift.
 - **CRUD Operations** – Functions for Create, Read, Update, and Delete items.
 
 ## Screenshots
-(Add images of your app here)
+![Image](https://github.com/user-attachments/assets/1993f917-d817-44dd-9862-587b9d9ecfff)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
